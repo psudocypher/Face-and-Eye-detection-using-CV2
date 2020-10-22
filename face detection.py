@@ -3,7 +3,7 @@ import numpy as np
 
 
 face_classifier = cv2.CascadeClassifier("Cascades/haarcascade_frontalface_default.xml")
-eye_classifier = cv2.CascadeClassifier("haarcascade_eye.xml")
+eye_classifier = cv2.CascadeClassifier("Cascades/haarcascade_eye.xml")
 
 cap = cv2.VideoCapture(0)
 
