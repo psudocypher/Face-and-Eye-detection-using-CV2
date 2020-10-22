@@ -3,4 +3,4 @@
 Used External Haarcascade classifier to get better results.
 
 
-<img src = "Image/dr.strange face detected.jpg" width = 300>
+<img src = "Image/dr.strange face detected.jpg" width = 400>
